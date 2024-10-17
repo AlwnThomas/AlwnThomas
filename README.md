@@ -7,12 +7,27 @@
   🌟 When I’m not coding, you can find me experimenting in the <strong>kitchen or hiking</strong><br>
 </p>
 
-## 🛠️ My Coding Ventures
-### Classic Snake 🐍
-A reenactment of the **Classic Snake** game. Eat as many apples as you can without hitting the border. Simple but *nostalgic*! 🍎  
-![Classic Snake Game](https://i.imgur.com/ApA6PKf.gif)
+## 🚀 Projects
 
-<br> <!-- Add spacing -->
+#### Automated Retail Kiosk with Smart Checkout
+<small>*Oct 2024 - PRESENT*</small>  
+Developing a fully automated retail kiosk utilizing ARM hardware, featuring image recognition and real-time inventory management.  
+**Technologies:** Python, TensorFlow, OpenCV, SQL.  
+**Hardware:** Raspberry Pi 4, NFC RFID Reader, Pi 7-inch Touchscreen.  
+
+#### AI Addressing Language Deprivation in Children with Hearing Impairment
+<small>*Jan 2024 - Apr 2024*</small>  
+Developed a real-time interpreter for British Sign Language using Python and deployed it into a mobile application for low-end devices.  
+**Technologies:** Python, LSTM, Mediapipe, Mobile App Development (Kivy).  
+**Hardware:** Webcam, Android/iOS device (any).  
+
+#### CitiSoft Software Showcase Application
+<small>*Sep 2023 - Dec 2023*</small>  
+Developed an app to showcase software solutions offered by CitiSoft. Features intuitive navigation and provides detailed information.  
+**Technologies:** Visual Studio, Windows.  
+
+</br>
+
 ## 💻 Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
@@ -28,7 +43,12 @@ A reenactment of the **Classic Snake** game. Eat as many apples as you can witho
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="35" alt="matlab logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="tensorflow logo" />
 </div>
+
 
 <br><br> <!-- Add spacing -->
 ## 📊 My Stats
@@ -47,18 +67,20 @@ A reenactment of the **Classic Snake** game. Eat as many apples as you can witho
 ## Github Commits
 <img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/snake.svg" alt="Snake animation" />
 
-<div align="left">
+<div align="centre">
   <h2>🌐 Socials</h2>
-  <div align="left">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <div align="centre">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="32" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="32" alt="discord logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="32" alt="youtube logo" />
   </div>
 </div>
 
-<br /> <!-- Add space between socials and view count -->
-
+</br></br>
+<div align="center">
+  Thanks for visiting!
+</div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/AlwnThomas/count.svg?"  />
 </div>
