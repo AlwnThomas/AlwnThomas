@@ -1,15 +1,19 @@
-<h1 align="center">Hello World! 👋, I'm Alwin Thomas</h1>
-<h3 align="center">AI & ML Student | Passionate About Building Smart Solutions</h3>
+<h3 align="center">Hello World! 👋, I'm Alwin Thomas</h3>
+<h2 align="center">AI & ML Student | Passionate About Building Smart Solutions</h2>
+<p align="left">
+  🔭 I’m currently working on <strong>Automated Retail Kiosk with Integrated AI</strong><br>
+  🌱 I’m currently learning <strong>JavaScript Frameworks</strong><br>
+  ✨ Exploring the intersection of <strong>AI and human behavior</strong><br>
+  🌟 When I’m not coding, you can find me experimenting in the <strong>kitchen or hiking</strong><br>
+</p>
 
-- 🔭 I’m currently working on **Automated Retail Kiosk with Integrated AI**
-- 🌱 I’m currently learning **JavaScript Frameworks**
-
-## My Coding Ventures
+## 🛠️ My Coding Ventures
 ### Classic Snake 🐍
 A reenactment of the **Classic Snake** game. Eat as many apples as you can without hitting the border. Simple but *nostalgic*! 🍎  
 ![Classic Snake Game](https://i.imgur.com/ApA6PKf.gif)
 
-## 💻 Tech Stack:
+<br> <!-- Add spacing -->
+## 💻 Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
   <img width="12" />
@@ -26,7 +30,8 @@ A reenactment of the **Classic Snake** game. Eat as many apples as you can witho
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
 </div>
 
-## 📊 GitHub Stats:
+<br><br> <!-- Add spacing -->
+## 📊 My Stats
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
@@ -38,11 +43,12 @@ A reenactment of the **Classic Snake** game. Eat as many apples as you can witho
   </tr>
 </table>
 
-### 🎮 Snake Animation
+<br> <!-- Add spacing -->
+## Github Commits
 <img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/snake.svg" alt="Snake animation" />
 
 <div align="left">
-  <h2>🌐 Socials:</h2>
+  <h2>🌐 Socials</h2>
   <div align="left">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
