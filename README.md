@@ -9,22 +9,17 @@
 
 ## 🚀 Projects
 
-#### Automated Retail Kiosk with Smart Checkout
-<small>*Oct 2024 - PRESENT*</small>  
-Developing a fully automated retail kiosk utilizing ARM hardware, featuring image recognition and real-time inventory management.  
-**Technologies:** Python, TensorFlow, OpenCV, SQL.  
-**Hardware:** Raspberry Pi 4, NFC RFID Reader, Pi 7-inch Touchscreen.  
+#### 🧠 Automated Retail Kiosk with Smart Checkout <small>*(Oct 2024 - PRESENT)*</small>  
+Developing a fully automated retail kiosk utilizing ARM hardware. Features image recognition and real-time inventory management.
+**Technologies:** Python, TensorFlow, OpenCV, SQL 
 
-#### AI Addressing Language Deprivation in Children with Hearing Impairment
-<small>*Jan 2024 - Apr 2024*</small>  
-Developed a real-time interpreter for British Sign Language using Python and deployed it into a mobile application for low-end devices.  
-**Technologies:** Python, LSTM, Mediapipe, Mobile App Development (Kivy).  
-**Hardware:** Webcam, Android/iOS device (any).  
+#### ⚙️ AI Addressing Language Deprivation in Children w/ Hearing Impairment <small>*(Jan 2024 - Apr 2024)*</small>  
+Developed a real-time interpreter for British Sign Language using Python. Deployed it as a mobile application for low-end devices.
+**Technologies:** Python, Mediapipe, Mobile App Development (Kivy)
 
-#### CitiSoft Software Showcase Application
-<small>*Sep 2023 - Dec 2023*</small>  
-Developed an app to showcase software solutions offered by CitiSoft. Features intuitive navigation and provides detailed information.  
-**Technologies:** Visual Studio, Windows.  
+#### ⏳ CitiSoft Software Showcase Application <small>*(Sep 2023 - Dec 2023)*</small>  
+Software to showcase the solutions offered by CitiSoft. Emphasizing on the Software Development Cycle (SDCL).  
+**Technologies:** Visual Studio Code, C#, Windows Forms
 
 </br>
 
