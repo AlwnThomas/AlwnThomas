@@ -68,12 +68,15 @@ Developed an app to showcase software solutions offered by CitiSoft. Features in
 <img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/snake.svg" alt="Snake animation" />
 
 <div align="centre">
-  <h2>🌐 Socials</h2>
+  <h3>🌐 Socials</h3>
   <div align="centre">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin logo" />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="32" alt="gmail logo" />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="32" alt="discord logo" />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="32" alt="youtube logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="32" alt="linkedin logo" />
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="32" alt="gmail logo" />
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="32" alt="discord logo" />
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="30" height="32" alt="youtube logo" />
   </div>
 </div>
 
