@@ -58,10 +58,6 @@ Software to showcase the solutions offered by CitiSoft. Emphasizing on the Softw
   </tr>
 </table>
 
-<br> <!-- Add spacing -->
-## Github Commits
-<img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/snake.svg" alt="Snake animation" />
-
 <div align="centre">
   <h3>🌐 Socials</h3>
   <div align="centre">
@@ -73,12 +69,4 @@ Software to showcase the solutions offered by CitiSoft. Emphasizing on the Softw
     &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="30" height="32" alt="youtube logo" />
   </div>
-</div>
-
-</br></br>
-<div align="center">
-  Thanks for visiting!
-</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AlwnThomas/count.svg?"  />
 </div>
