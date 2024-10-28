@@ -47,12 +47,12 @@ Software to showcase the solutions offered by CitiSoft. Emphasizing on the Softw
 
 <br><br> <!-- Add spacing -->
 ## 📊 My Stats
-<table style="border-collapse: collapse; border: none; width: 100%;">
+<table style="border-collapse: collapse; border: none; width: 90%;">
   <tr style="border: none;">
-    <td style="border: none; width: 50%;">
+    <td style="border: none; width: 40%;">
       <img src="https://github-readme-stats.vercel.app/api?username=AlwnThomas&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
     </td>
-    <td style="border: none; width: 50%;">
+    <td style="border: none; width: 60%;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlwnThomas&theme=dark&hide_border=true" />
     </td>
   </tr>
