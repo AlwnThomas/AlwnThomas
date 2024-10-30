@@ -1,7 +1,7 @@
 <h3 align="center">Hello World! 👋, I'm Alwin Thomas</h3>
 <h2 align="center">AI & ML Graduate | Building Smart Solutions</h2>
 <p align="left">
-  🔭 I’m currently working on <strong>Automated Retail Kiosk with Integrated AI</strong><br>
+  🔭 I’m currently working on <strong>Qube: Activitiy Monitoring Wearable</strong><br>
   🌱 I’m currently learning <strong>JavaScript Frameworks</strong><br>
   ✨ Exploring the intersection of <strong>AI and human behavior</strong><br>
   🌟 When I’m not coding, you can find me experimenting in the <strong>kitchen or hiking</strong><br>
@@ -9,9 +9,9 @@
 
 ## 🚀 Projects
 
-#### 🧠 Automated Retail Kiosk with Smart Checkout <small>*(Oct 2024 - PRESENT)*</small>  
-Developing a fully automated retail kiosk utilizing ARM hardware. Features image recognition and real-time inventory management.
-**Technologies:** Python, TensorFlow, OpenCV, SQL 
+#### 🧠 Qube: Intelligent Activity Monitor<small>*(Oct 2024 - PRESENT)*</small>  
+Leading the design and production of an ARM-powered activity monitoring device, helping sustain a healthier & better life.
+**Technologies:** JavaScript (ReactJS, React Native), NodeJS, ExpressJS, MongoDB, AWS Cloud
 
 #### ⚙️ AI Addressing Language Deprivation in Children w/ Hearing Impairment <small>*(Jan 2024 - Apr 2024)*</small>  
 Developed a real-time interpreter for British Sign Language using Python. Deployed it as a mobile application for low-end devices.
