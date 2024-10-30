@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 
-#### 🧠 Qube: Intelligent Activity Monitor<small>*(Oct 2024 - PRESENT)*</small>  
+#### 🏃‍♂️ Qube: Intelligent Activity Monitor<small>*(Oct 2024 - PRESENT)*</small>  
 Leading the design and production of an ARM-powered activity monitoring device, helping sustain a healthier & better life.<br>
 **Technologies:** JavaScript (ReactJS, React Native), NodeJS, ExpressJS, MongoDB, AWS Cloud
 
