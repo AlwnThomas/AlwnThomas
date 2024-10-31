@@ -9,17 +9,17 @@
 
 ## 🚀 Projects
 
-#### 🏃‍♂️ Qube: Intelligent Activity Monitor<small>*(Oct 2024 - PRESENT)*</small>  
+#### 🏃‍♂️ Qube: Intelligent Activity Monitor <small>*(Oct 2024 - PRESENT)*</small>  
 Leading the design and production of an ARM-powered activity monitoring device, helping sustain a healthier & better life.<br>
-**Technologies:** JavaScript (ReactJS, React Native), NodeJS, ExpressJS, MongoDB, AWS Cloud
+**Technologies:** *JavaScript (ReactJS, React Native), NodeJS, ExpressJS, MongoDB, AWS Cloud*
 
 #### ⚙️ AI Addressing Language Deprivation in Children w/ Hearing Impairment <small>*(Jan 2024 - Apr 2024)*</small>  
 Developed a real-time interpreter for British Sign Language using Python. Deployed it as a mobile application for low-end devices.
-**Technologies:** Python, Mediapipe, Mobile App Development (Kivy)
+**Technologies:** *Python, Mediapipe, Mobile App Development (Kivy)*
 
 #### ⏳ CitiSoft Software Showcase Application <small>*(Sep 2023 - Dec 2023)*</small>  
 Software to showcase the solutions offered by CitiSoft. Emphasizing on the Software Development Cycle (SDCL).  
-**Technologies:** Visual Studio Code, C#, Windows Forms
+**Technologies:** *Visual Studio Code, C#, Windows Forms*
 
 </br>
 
