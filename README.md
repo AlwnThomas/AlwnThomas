@@ -1,5 +1,5 @@
 <h3 align="center">Hello World! 👋, I'm Alwin Thomas</h3>
-<h2 align="center">AI & ML Graduate | Building Smart Solutions</h2>
+<h2 align="center">AI Developer | Building Smart Solutions</h2>
 <p align="left">
   🔭 I’m currently working on <strong>Qube: Activitiy Monitoring Wearable</strong><br>
   🌱 I’m currently learning <strong>JavaScript Frameworks</strong><br>
