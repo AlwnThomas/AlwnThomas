@@ -68,9 +68,9 @@ Software to showcase the solutions offered by CitiSoft. Emphasizing on the Softw
 <div align="centre">
   <h3>🌐 Socials</h3>
   <div align="centre">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="32" alt="linkedin logo" />
+    <img target="_blank" href="https://www.linkedin.com/in/alwnthomas/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="32" alt="linkedin logo" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="32" alt="gmail logo" />
+    <img href="mailto:alwnthomas@gmail.com" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="32" alt="gmail logo" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="32" alt="discord logo" />
     &nbsp;&nbsp;&nbsp;&nbsp;
