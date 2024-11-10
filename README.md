@@ -74,6 +74,6 @@ Software to showcase the solutions offered by CitiSoft. Emphasizing on the Softw
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="32" alt="discord logo" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="30" height="32" alt="youtube logo" />
+    <img target="_blank" href="https://www.youtube.com/@alwnthomas" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="30" height="32" alt="youtube logo" />
   </div>
 </div>
