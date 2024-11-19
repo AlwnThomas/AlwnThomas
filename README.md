@@ -4,7 +4,7 @@
   🔭 I’m currently working on <strong>Qube: Activitiy Monitoring Wearable</strong><br>
   🌱 I’m currently learning <strong>JavaScript Frameworks</strong><br>
   ✨ Exploring the intersection of <strong>AI and human behavior</strong><br>
-  🌟 When I’m not coding, you can find me experimenting in the <strong>kitchen or hiking</strong><br>
+  🥘 When I’m not coding, you can find me experimenting in the <strong>kitchen</strong><br>
 </p>
 
 ## 🚀 Projects
