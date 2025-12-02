@@ -50,7 +50,9 @@ Software to showcase the solutions offered by CitiSoft with focus on SDLC.
 
 ## 🐍 Snake.exe
 <p align="center">
-  ![Commit Trail](https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/snake-dark-minimal.svg)
+  <img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/snake-dark-minimal.svg" alt="Commit Trail"/>
+  <br>
+  <small>Tracking commits & streaks</small>
 </p>
 
 ---
