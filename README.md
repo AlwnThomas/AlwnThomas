@@ -50,7 +50,7 @@ Software to showcase the solutions offered by CitiSoft with focus on SDLC.
 
 ## 🐍 Snake.exe
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/github-contribution-grid-snake-dark.svg?refresh=2" />
+  ![Commit Trail](https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/snake-dark-minimal.svg)
 </p>
 
 ---
