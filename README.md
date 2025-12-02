@@ -1,5 +1,5 @@
 <h3 align="center">Hello World! 👋, I'm Alwin Thomas</h3>
-<h2 align="center">Data Geek | Experimenting with Data!</h2>
+<h2 align="center">Data Geek | Experimenting with Data 🧬</h2>
 <p align="left">
   🔭 I’m currently working on <strong>SQL-Power BI stock market analysis</strong><br>
   🌱 I’m currently learning <strong>Advanced SQL</strong><br>
