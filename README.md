@@ -52,18 +52,17 @@ Software to showcase the solutions offered by CitiSoft with focus on SDLC.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AlwnThomas&theme=dark&hide_border=true&include_all_commits=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=AlwnThomas&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <!-- ✅ WORKING SNAKE ANIMATION -->
-      <img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/github-contribution-grid-snake-dark.svg?refresh=1"/>
+      <img src="https://streak-stats.demolab.com/?user=AlwnThomas&theme=dark&hide_border=true"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake.exe
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/github-contribution-grid-snake-dark.svg?refresh=2" />
 </p>
