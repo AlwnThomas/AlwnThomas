@@ -25,8 +25,17 @@ Software to showcase the solutions offered by CitiSoft with focus on SDLC.
 
 ---
 
+## 🐍 Snake.exe
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/snake-dark-minimal.svg" alt="Commit Trail"/>
+  <br>
+  <small>Commit Trail</small>
+</p>
+
+---
+
 ## 💻 Tech Stack
-<div align="left">
+<div align="centre">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
@@ -45,15 +54,6 @@ Software to showcase the solutions offered by CitiSoft with focus on SDLC.
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" />
 </div>
-
----
-
-## 🐍 Snake.exe
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/snake-dark-minimal.svg" alt="Commit Trail"/>
-  <br>
-  <small>Commit Trail</small>
-</p>
 
 ---
 
