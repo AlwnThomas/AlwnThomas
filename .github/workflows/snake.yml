@@ -12,13 +12,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - name: Generate minimal snake animation
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: AlwnThomas
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-minimal.svg?palette=github-light&bg=transparent
+            dist/snake-dark-minimal.svg?palette=github-dark&bg=transparent
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
