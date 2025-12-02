@@ -1,10 +1,9 @@
 <h3 align="center">Hello World! 👋, I'm Alwin Thomas</h3>
-<h2 align="center">AI Developer | Building Smart Solutions</h2>
+<h2 align="center">Data Geek | Feeding Datasets to models hoping for the best!</h2>
 <p align="left">
-  🔭 I’m currently working on <strong>Qube: Activitiy Monitoring Wearable</strong><br>
-  🌱 I’m currently learning <strong>JavaScript Frameworks</strong><br>
+  🔭 I’m currently working on <strong>SQL-Power BI stock market analysis</strong><br>
+  🌱 I’m currently learning <strong>Advanced SQL</strong><br>
   ✨ Exploring the intersection of <strong>AI and human behavior</strong><br>
-  🥘 When I’m not coding, you can find me experimenting in the <strong>kitchen</strong><br>
 </p>
 
 ## 🚀 Projects
