@@ -52,7 +52,7 @@ Software to showcase the solutions offered by CitiSoft with focus on SDLC.
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/snake-dark-minimal.svg" alt="Commit Trail"/>
   <br>
-  <small>Tracking commits & streaks</small>
+  <small>Commit Trail</small>
 </p>
 
 ---
