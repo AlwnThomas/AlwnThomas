@@ -25,7 +25,7 @@ Software to showcase the solutions offered by CitiSoft with focus on SDLC.
 
 ---
 
-## 🐍 Snake.exe
+<h3 align="center">🐍 Commit_Snake.exe</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/snake-dark-minimal.svg" alt="Commit Trail"/>
   <br>
