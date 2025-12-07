@@ -2,7 +2,7 @@
 <h2 align="center">Data Geek | Experimenting with Data 🧬</h2>
 
 <p align="left">
-  🔭 I’m currently working on <strong>SQL-Power BI stock market analysis</strong><br>
+  🔭 I’m currently working on <strong>SQL & Power-BI stock market analysis</strong><br>
   🌱 I’m currently learning <strong>Advanced SQL</strong><br>
   ✨ Exploring the intersection of <strong>AI and human behavior</strong><br>
 </p>
