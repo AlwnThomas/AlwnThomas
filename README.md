@@ -7,41 +7,40 @@
 
 ---
 
-## 👨‍💻 About
+## About
 
-I am a Software and AI graduate focused on building a career in **data engineering**, **backend development**, and **applied AI**.  
-I enjoy developing systems that turn data into practical products, from analytics dashboards to intelligent backend services.
+Software and AI graduate focused on building a career in **Data Engineering**, **backend development**, and **applied AI**.  
+Enjoys developing systems that turn data into practical products, from analytics dashboards to intelligent backend services.
 
-- 🚀 Currently building: **AI Resume Analyser**
-- 📊 Currently developing: **SQL & Power BI Stock Market Analysis**
+- 🚀 Currently building: **AI-Powered Resume Intelligence & Optimisation Platform**
 - 📚 Currently learning: **Advanced SQL, backend engineering, and data engineering foundations**
 - 🎯 Interested in: **Data pipelines, APIs, analytics, cloud systems, and AI-powered applications**
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🤖 AI Resume Analyser  
+### 🤖 AI-Powered Resume Intelligence & Optimisation Platform
 *May 2026 – Present*  
 Developing an AI-powered resume analysis platform that allows users to upload resumes, generate structured feedback, and manage historical analyses through a backend API.
 
 **Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, REST APIs, Authentication, Backend Development
 
+### 📈 SQL & Power BI Stock Market Intelligence Dashboard  
+*Aug 2025 – Nov 2025*  
+Developing a data analytics solution that transforms historical stock market data into structured insights, using SQL for data extraction and analysis, and Power BI for interactive performance tracking, trend evaluation, and decision-focused visual reporting.
+
+**Stack:** SQL, Power BI, Data Analysis, Data Visualisation, Business Intelligence
+
 ### 🏃 Qube — Intelligent Activity Monitoring  
-*Oct 2024 – Present*  
+*Oct 2024 – May 2025*  
 Leading the design and development of an ARM-powered activity monitoring platform focused on supporting healthier lifestyles through connected software and cloud-backed services.
 
 **Stack:** React, React Native, Node.js, Express.js, MongoDB, AWS
 
-### 🧠 AI for Language Deprivation in Children with Hearing Impairment  
-*Jan 2024 – Apr 2024*  
-Developed a real-time British Sign Language interpretation system and deployed it as a lightweight mobile application designed for low-end devices.
-
-**Stack:** Python, MediaPipe, Kivy, Computer Vision, Real-Time Inference
-
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />&nbsp;&nbsp;&nbsp;
