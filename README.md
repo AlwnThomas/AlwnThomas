@@ -1,64 +1,83 @@
-<h3 align="center">Hello World! 👋, I'm Alwin Thomas</h3>
-<h2 align="center">Data Geek | Aspiring Data Engineer 🧬</h2>
+<h1 align="center">Alwin Thomas</h1>
+<h3 align="center">Aspiring Data Engineer | Software & AI Graduate</h3>
 
-<p align="left">
-  🔭 I’m currently working on <strong>SQL & Power-BI stock market analysis</strong><br>
-  🌱 I’m currently learning <strong>Advanced SQL</strong><br>
-  ✨ Exploring the intersection of <strong>AI and human behavior</strong><br>
+<p align="center">
+  Building data-driven systems, backend applications, and applied AI products. ⚙️
 </p>
+
+---
+
+## 👨‍💻 About
+
+I am a Software and AI graduate focused on building a career in **data engineering**, **backend development**, and **applied AI**.  
+I enjoy developing systems that turn data into practical products, from analytics dashboards to intelligent backend services.
+
+- 🚀 Currently building: **AI Resume Analyser**
+- 📊 Currently developing: **SQL & Power BI Stock Market Analysis**
+- 📚 Currently learning: **Advanced SQL, backend engineering, and data engineering foundations**
+- 🎯 Interested in: **Data pipelines, APIs, analytics, cloud systems, and AI-powered applications**
 
 ---
 
 ## 🚀 Projects
 
-#### 🏃‍♂️ Qube: Intelligent Activity Monitoring <small>*(Oct 2024 - PRESENT)*</small>  
-Leading the design and production of an ARM-powered activity monitoring device, helping sustain a healthier & better life.  
-**Technologies:** *JavaScript (ReactJS, React Native), NodeJS, ExpressJS, MongoDB, AWS Cloud*
+### 🤖 AI Resume Analyser  
+*May 2026 – Present*  
+Developing an AI-powered resume analysis platform that allows users to upload resumes, generate structured feedback, and manage historical analyses through a backend API.
 
-#### ⚙️ AI Addressing Language Deprivation in Children w/ Hearing Impairment <small>*(Jan 2024 - Apr 2024)*</small>  
-Developed a real-time interpreter for British Sign Language using Python. Deployed it as a mobile application for low-end devices.  
-**Technologies:** *Python, Mediapipe, Kivy*
+**Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, REST APIs, Authentication, Backend Development
 
-#### ⏳ CitiSoft Software Showcase Application <small>*(Sep 2023 - Dec 2023)*</small>  
-Software to showcase the solutions offered by CitiSoft with focus on SDLC.  
-**Technologies:** *C#, Windows Forms*
+### 🏃 Qube — Intelligent Activity Monitoring  
+*Oct 2024 – Present*  
+Leading the design and development of an ARM-powered activity monitoring platform focused on supporting healthier lifestyles through connected software and cloud-backed services.
+
+**Stack:** React, React Native, Node.js, Express.js, MongoDB, AWS
+
+### 🧠 AI for Language Deprivation in Children with Hearing Impairment  
+*Jan 2024 – Apr 2024*  
+Developed a real-time British Sign Language interpretation system and deployed it as a lightweight mobile application designed for low-end devices.
+
+**Stack:** Python, MediaPipe, Kivy, Computer Vision, Real-Time Inference
 
 ---
 
-<h3 align="center">🐍 Commit_Snake.exe</h3>
+## 🛠️ Technical Skills
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlwnThomas/AlwnThomas/output/snake-dark-minimal.svg" alt="Commit Trail"/>
-  <br>
-  <small>Commit Trail</small>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="TensorFlow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="36" alt="Power BI" />
 </p>
 
+### 💻 Core
+**Python · SQL · PostgreSQL · JavaScript · Java · C# · Power BI**
+
+### 🗄️ Backend & Data
+**FastAPI · REST APIs · SQLAlchemy · Authentication · Data Modelling · Relational Databases · Database CRUD Operations**
+
+### ☁️ Frameworks & Platforms
+**Node.js · Express.js · React · React Native · MongoDB · AWS**
+
+### 🤖 AI & Applied ML
+**TensorFlow · MediaPipe · Computer Vision · Real-Time Inference · AI Application Development**
+
 ---
 
-<h3 align="center">💻 Tech Stack</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="35" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="35" />
-</div>
+## 🌐 Connect
 
----
-
-<h3 align="center">🌐 Socials</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/alwnthomas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:alwnthomas@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="28"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="28"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="28" alt="Email"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@alwnthomas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="28"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="28" alt="YouTube"/>
   </a>
 </p>
-
 
