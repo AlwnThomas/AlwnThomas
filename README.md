@@ -5,12 +5,10 @@
   Building data-driven systems, backend applications, and applied AI products. ⚙️
 </p>
 
----
-
-## About
-
 Software and AI graduate focused on building a career in **Data Engineering**, **backend development**, and **applied AI**.  
 Enjoys developing systems that turn data into practical products, from analytics dashboards to intelligent backend services.
+
+---
 
 - 🚀 Currently building: **AI-Powered Resume Intelligence & Optimisation Platform**
 - 📚 Currently learning: **Advanced SQL, backend engineering, and data engineering foundations**
