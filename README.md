@@ -5,7 +5,7 @@
   Building data-driven systems, backend applications, and applied AI products. ⚙️
 </p>
 
----
+
 
 Software and AI graduate focused on building a career in **Data Engineering**, **backend development**, and **applied AI**.  
 Enjoys developing systems that turn data into practical products, from analytics dashboards to intelligent backend services.
@@ -14,7 +14,8 @@ Enjoys developing systems that turn data into practical products, from analytics
 - 📚 Currently learning: **Advanced SQL, backend engineering, and data engineering foundations**
 - 🎯 Interested in: **Data pipelines, APIs, analytics, cloud systems, and AI-powered applications**
 
----
+
+
 
 ## Projects
 
@@ -36,7 +37,7 @@ Leading the design and development of an ARM-powered activity monitoring platfor
 
 **Stack:** React, React Native, Node.js, Express.js, MongoDB, AWS
 
----
+
 
 ## Technical Skills
 
