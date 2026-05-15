@@ -53,6 +53,8 @@ Leading the design and development of an ARM-powered activity monitoring platfor
 ### 🤖 AI & Applied ML
 **TensorFlow · MediaPipe · Computer Vision · Real-Time Inference · AI Application Development**
 
+<br>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
