@@ -1,5 +1,5 @@
 <h1 align="center">Alwin Thomas</h1>
-<h3 align="center">Aspiring Data Engineer | Software & AI Graduate</h3>
+<h3 align="center">Data Engineer | Applied AI & Machine Learning</h3>
 
 <p align="center">
   Building data-driven systems, backend applications, and applied AI products. ⚙️
